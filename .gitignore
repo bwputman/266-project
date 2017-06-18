@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.Rhistory
+*/.Rhistory/*
+
+sample_submission.csv
+*/sample_submission.csv/*
+
+train.csv
+*/train.csv/*
+
+test_1.csv
+*/test_1.csv/*
+
+test_2.csv
+*/test_2.csv/*
